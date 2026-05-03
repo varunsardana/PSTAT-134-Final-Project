@@ -17,6 +17,7 @@ TF-IDF and classification models to predict which subreddit a post came from.
 - r/MachineLearning
 
 ### Repo Structure
+```
 project/
 ├── data/
 │   ├── raw/            # raw data straight from PRAW
@@ -29,6 +30,8 @@ project/
 ├── .env.example        # template for API credentials
 ├── requirements.txt    # python dependencies
 └── README.md
+
+```
 
 ### Setup
 1. Clone the repo
